@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome The Speedup Project
 
 You can use the [editor on GitHub](https://github.com/SuperbScripts/SpeedUP-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
