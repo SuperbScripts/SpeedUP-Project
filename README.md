@@ -1,10 +1,10 @@
 ## Welcome The Speedup Project
 
-You can use the [editor on GitHub](https://github.com/SuperbScripts/SpeedUP-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The Speedup Project is a program created for speeding up Your PC
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### How it works
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
