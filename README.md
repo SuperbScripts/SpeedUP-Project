@@ -1,4 +1,4 @@
-## Welcome The Speedup Project
+## The Speedup Project
 
 The Speedup Project is a program created for speeding up Your PC. It was first created in 2015
 
